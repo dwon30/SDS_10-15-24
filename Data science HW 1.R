@@ -1,3 +1,4 @@
+#Homework 1- SDS
 #1. How many of these bonds were approved by voters, and how many were defeated? Are there any differences in the rates of approved bonds across the four different government types?  Calculate the appropriate descriptive statistics to answer these questions.
 
 #this is the table for how much was carried and defeated in the results
