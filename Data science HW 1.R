@@ -41,3 +41,5 @@ cor(Bonds100$percentages, Bonds100$Amount)
 plot(Bonds100$percentages,
      main='Proportion of Votes For and Cost',
      xlab='Proportion of Votes For', ylab='cost')
+
+#I like men
